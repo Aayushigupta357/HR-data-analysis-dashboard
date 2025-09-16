@@ -50,10 +50,10 @@ The primary objective of this project is to:
 
  * Enhance onboarding and employee engagement programs during the first 2 years.
 
-    * Review compensation policies for employees in the lowest salary bracket.
+* Review compensation policies for employees in the lowest salary bracket.
 
-  * Develop role-specific retention strategies for high-turnover positions (Lab Technicians, Sales Executives, Research Scientists).
+* Develop role-specific retention strategies for high-turnover positions (Lab Technicians, Sales Executives, Research Scientists).
 
-   * Offer career development and training opportunities to employees from Life Sciences and Medical backgrounds.
+* Offer career development and training opportunities to employees from Life Sciences and Medical backgrounds.
 
-   * Encourage mentorship programs and growth pathways for younger employees to reduce early attrition.
+* Encourage mentorship programs and growth pathways for younger employees to reduce early attrition.
